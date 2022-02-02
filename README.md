@@ -1,2 +1,4 @@
-# Timetable
-timetable with python
+#  Timetable 어플 개발
+## 요구사항 분석(백로그)
+## 일일 스프린트
+## 번다운차트
